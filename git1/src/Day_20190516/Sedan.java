@@ -27,7 +27,7 @@ public class Sedan extends Car {
 //		else {
 //			System.out.println(color+"승용차의 속도는"+speed+"이고 좌석수는"+sit+"개 입니다.");
 //		}
-//	}
+//	}//
 	//필드 선언
 	private int seatNum;
 	//생성자 선언

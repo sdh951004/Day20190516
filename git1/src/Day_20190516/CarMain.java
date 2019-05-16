@@ -16,7 +16,7 @@ public class CarMain {
 //		Tcar.color="검정";
 //		Tcar.speed=100;
 //		Tcar.Tcars();
-//		
+//		//
 		//Sedan클래스의 객체 선언
 		Sedan sedan=new Sedan(100,"빨간색");
 		//Truck클래스의 객체 선언

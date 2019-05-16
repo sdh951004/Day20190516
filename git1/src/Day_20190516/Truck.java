@@ -24,7 +24,7 @@ public class Truck extends Car{
 //		else {
 //			System.out.println(color+"트럭의 속도는"+speed+"이고 적재량는"+gram+"톤 입니다.");
 //		}
-//	}
+//	}//
 	//적재량 필드선언
 	private int capacity;
 	Truck(int speed, String color, int capacity){

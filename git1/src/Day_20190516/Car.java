@@ -15,7 +15,7 @@ public class Car {
 //	}
 //	void speedDw() {
 //		speed-=10;
-//	}
+//	}//
 	
 	int speed;
 	String color;
